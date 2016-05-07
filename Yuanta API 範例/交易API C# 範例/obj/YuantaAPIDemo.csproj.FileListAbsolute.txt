@@ -1,0 +1,35 @@
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\bin\Debug\YuantaAPIDemo.exe
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\bin\Debug\YuantaAPIDemo.pdb
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\bin\Debug\Interop.YuantaOrdLib.dll
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\obj\Debug\Interop.YuantaOrdLib.dll
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\obj\Debug\YuantaAPIDemo.csproj.ResolveComReference.cache
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\obj\Debug\YuantaAPIDemo.Form1.resources
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\obj\Debug\YuantaAPIDemo.Properties.Resources.resources
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\obj\Debug\YuantaAPIDemo.csproj.GenerateResource.Cache
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\obj\Debug\YuantaAPIDemo.exe
+C:\YT-HTS(DEV)\Source\api\元大下單API\Sample\C#\obj\Debug\YuantaAPIDemo.pdb
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.exe
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.pdb
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\obj\Debug\Interop.YuantaOrdLib.dll
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.csproj.ResolveComReference.cache
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.Form1.resources
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.Properties.Resources.resources
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\bin\Debug\YuantaAPIDemo.exe
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\bin\Debug\YuantaAPIDemo.pdb
+C:\Documents and Settings\ck\桌面\API整理\下單API\Sample\C#\bin\Debug\Interop.YuantaOrdLib.dll
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.exe
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.pdb
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\bin\Debug\YuantaAPIDemo.exe
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\bin\Debug\YuantaAPIDemo.pdb
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.csproj.ResolveComReference.cache
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.Form1.resources
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.Properties.Resources.resources
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\YuantaAPIDemo.csproj.GenerateResource.Cache
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\bin\Debug\Interop.YuantaOrdLib.dll
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\bin\Debug\AxInterop.YuantaOrdLib.dll
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\Interop.YuantaOrdLib.dll
+C:\Documents and Settings\ck\桌面\API整理-201012\下單API\Sample\C#\obj\Debug\AxInterop.YuantaOrdLib.dll
